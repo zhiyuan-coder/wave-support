@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - MediKeep</title>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #f5f5f7;
+        }
+        .container {
+            background-color: #ffffff;
+            border-radius: 16px;
+            padding: 40px;
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+        }
+        h1 {
+            color: #1a1a1a;
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        .effective-date {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 32px;
+        }
+        h2 {
+            color: #1a1a1a;
+            font-size: 22px;
+            margin-top: 32px;
+            margin-bottom: 12px;
+        }
+        p {
+            margin-bottom: 16px;
+            font-size: 16px;
+        }
+        ul {
+            margin-bottom: 16px;
+            padding-left: 24px;
+        }
+        li {
+            margin-bottom: 8px;
+            font-size: 16px;
+        }
+        .highlight {
+            background-color: #f0f7ff;
+            border-left: 4px solid #007aff;
+            padding: 16px;
+            border-radius: 8px;
+            margin: 24px 0;
+        }
+        a {
+            color: #007aff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .footer {
+            margin-top: 40px;
+            padding-top: 24px;
+            border-top: 1px solid #e5e5e5;
+            color: #666;
+            font-size: 14px;
+        }
+        @media (max-width: 600px) {
+            .container {
+                padding: 24px;
+            }
+            h1 {
+                font-size: 26px;
+            }
+            h2 {
+                font-size: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="effective-date">Effective Date: June 23, 2026</p>
+
+        <p>This Privacy Policy describes how MediKeep ("we," "our," or "us") handles information in connection with our mobile application (the "App"). By using the App, you agree to the practices described in this Privacy Policy.</p>
+
+        <div class="highlight">
+            <strong>Summary:</strong> MediKeep stores your medical documents locally on your device. We do not collect, transmit, or sell your personal health information. Your data stays on your device unless you choose to share it.
+        </div>
+
+        <h2>1. Information We Do Not Collect</h2>
+        <p>MediKeep is designed with privacy at its core. We do <strong>not</strong>:</p>
+        <ul>
+            <li>Collect or store your medical documents on our servers</li>
+            <li>Track your personal health information</li>
+            <li>Sell or share your data with third parties</li>
+            <li>Require you to create an account</li>
+            <li>Use analytics or advertising frameworks that access your documents</li>
+        </ul>
+
+        <h2>2. Information Stored Locally</h2>
+        <p>All information you enter or import into the App, including but not limited to:</p>
+        <ul>
+            <li>Medical documents, images, and PDFs</li>
+            <li>Patient names and health-related notes</li>
+            <li>Hospital and doctor information</li>
+            <li>Document metadata and tags</li>
+        </ul>
+        <p>is stored <strong>locally on your device</strong> using Apple's built-in storage and database technologies. You maintain full control over this data at all times.</p>
+
+        <h2>3. In-App Purchases</h2>
+        <p>MediKeep offers a one-time PRO upgrade through Apple's In-App Purchase system. Payment processing is handled entirely by Apple. We do not collect or have access to your payment information.</p>
+
+        <h2>4. Sharing and Export</h2>
+        <p>You may choose to share or export documents from the App using native iOS features such as the system share sheet, AirDrop, or saving to your Photos library. Any sharing is initiated and controlled by you. We do not access or transmit your documents during these actions.</p>
+
+        <h2>5. Data Security</h2>
+        <p>Your data is protected by Apple's device-level security, including encryption when your device is locked with a passcode, Face ID, or Touch ID. We recommend enabling a device passcode to protect your health information.</p>
+
+        <h2>6. Children's Privacy</h2>
+        <p>MediKeep is not intended for use by children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with information, please contact us.</p>
+
+        <h2>7. Your Rights and Choices</h2>
+        <p>Because your data is stored locally on your device, you can:</p>
+        <ul>
+            <li>Access, edit, or delete any information at any time within the App</li>
+            <li>Delete the App to remove all locally stored data</li>
+            <li>Use iOS device backups or iCloud backups at your own discretion</li>
+        </ul>
+
+        <h2>8. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. Any changes will be posted within the App or at this URL with an updated effective date. Continued use of the App after changes constitutes acceptance of the revised policy.</p>
+
+        <h2>9. Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:</p>
+        <p><strong>Email:</strong> <a href="mailto:support@example.com">support@example.com</a></p>
+
+        <div class="footer">
+            <p>&copy; 2026 MediKeep. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
